@@ -1,5 +1,5 @@
 ﻿import { _decorator, Component, Label, EditBox } from 'cc';
-import { Config } from './Config';
+import { Config } from './scripts/Config';
 
 const { ccclass, property } = _decorator;
 

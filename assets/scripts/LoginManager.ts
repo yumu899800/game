@@ -1,5 +1,5 @@
 import { _decorator, Component, Node, EditBox, Label, EventHandler, director } from 'cc';
-import { NetManager } from './NetManager'; // 确保路径正确
+import { NetManager } from './NetManager';
 const { ccclass, property } = _decorator;
 
 @ccclass('LoginManager')
