@@ -694,7 +694,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BuyBtn",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1
@@ -848,7 +848,7 @@
       "b": 0,
       "a": 255
     },
-    "_string": "button",
+    "_string": "购买",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 20,
@@ -1126,7 +1126,7 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+      "__uuid__": "c731928a-48a6-41cd-a613-7ce5396b17f6@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
