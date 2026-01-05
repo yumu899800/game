@@ -238,7 +238,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -75.416,
-      "y": 2.595,
+      "y": 2.289,
       "z": 0
     },
     "_lrot": {
@@ -555,8 +555,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -100.57300000000001,
-      "y": -25.117,
+      "x": -0.802,
+      "y": -20.8,
       "z": 0
     },
     "_lrot": {
@@ -596,8 +596,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 21.1279296875,
-      "height": 50.4
+      "width": 25.353515625,
+      "height": 12.6
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -627,18 +627,18 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_string": "label",
-    "_horizontalAlign": 1,
-    "_verticalAlign": 1,
-    "_actualFontSize": 10,
-    "_fontSize": 10,
+    "_horizontalAlign": 0,
+    "_verticalAlign": 0,
+    "_actualFontSize": 12,
+    "_fontSize": 12,
     "_fontFamily": "Arial",
-    "_lineHeight": 40,
+    "_lineHeight": 10,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": null,
@@ -687,8 +687,6 @@
       "__id__": 0
     },
     "fileId": "a3bo6GyKlFspvgqisxGRoc",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -1190,7 +1188,6 @@
       "__id__": 0
     },
     "fileId": "7bnVZfUaNHUoQFRCkOkz5T",
-    "instance": null,
-    "targetOverrides": null
+    "instance": null
   }
 ]

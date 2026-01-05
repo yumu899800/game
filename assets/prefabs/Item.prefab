@@ -230,6 +230,8 @@
       "__id__": 0
     },
     "fileId": "3b1Vxk9o9FOaduHT8RW4FK",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -550,8 +552,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 27.683,
-      "y": -19.601,
+      "x": 45.347,
+      "y": -17.919,
       "z": 0
     },
     "_lrot": {
@@ -628,7 +630,7 @@
       "a": 255
     },
     "_string": "label",
-    "_horizontalAlign": 1,
+    "_horizontalAlign": 0,
     "_verticalAlign": 1,
     "_actualFontSize": 12,
     "_fontSize": 25,
