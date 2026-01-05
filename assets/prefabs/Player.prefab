@@ -269,9 +269,6 @@
     "__prefab": {
       "__id__": 11
     },
-    "mainCamera": null,
-    "mapNode": null,
-    "gridSize": 64,
     "moveSpeed": 1,
     "syncInterval": 2,
     "_id": ""
@@ -330,7 +327,7 @@
     "_group": 1,
     "_density": 1,
     "_sensor": false,
-    "_friction": 0.2,
+    "_friction": 0,
     "_restitution": 0,
     "_offset": {
       "__type__": "cc.Vec2",
